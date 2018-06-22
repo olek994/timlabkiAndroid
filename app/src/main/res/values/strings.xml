@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimLabki</string>
+    <string name="BaseUrl">http://192.168.1.211:8050</string>
+</resources>
